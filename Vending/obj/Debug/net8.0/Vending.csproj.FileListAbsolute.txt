@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Vending\Vending\bin\Debug\net8.0\Vending.exe
+C:\Users\User\source\repos\Vending\Vending\bin\Debug\net8.0\Vending.deps.json
+C:\Users\User\source\repos\Vending\Vending\bin\Debug\net8.0\Vending.runtimeconfig.json
+C:\Users\User\source\repos\Vending\Vending\bin\Debug\net8.0\Vending.dll
+C:\Users\User\source\repos\Vending\Vending\bin\Debug\net8.0\Vending.pdb
+C:\Users\User\source\repos\Vending\Vending\obj\Debug\net8.0\Vending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Vending\Vending\obj\Debug\net8.0\Vending.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Vending\Vending\obj\Debug\net8.0\Vending.AssemblyInfo.cs
+C:\Users\User\source\repos\Vending\Vending\obj\Debug\net8.0\Vending.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Vending\Vending\obj\Debug\net8.0\Vending.sourcelink.json
+C:\Users\User\source\repos\Vending\Vending\obj\Debug\net8.0\Vending.dll
+C:\Users\User\source\repos\Vending\Vending\obj\Debug\net8.0\refint\Vending.dll
+C:\Users\User\source\repos\Vending\Vending\obj\Debug\net8.0\Vending.pdb
+C:\Users\User\source\repos\Vending\Vending\obj\Debug\net8.0\Vending.genruntimeconfig.cache
+C:\Users\User\source\repos\Vending\Vending\obj\Debug\net8.0\ref\Vending.dll
