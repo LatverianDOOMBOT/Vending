@@ -5,7 +5,8 @@ vendingPairs.Add(6, "fuzetea");
 vendingPairs.Add(7, "iced tea");
 vendingPairs.Add(76, "cold tea");
 int vendingNum = 3;
-while (true)
+bool isRunning = true;
+while (isRunning)
 {
     Console.WriteLine("Choose product");
     string vendingInput = Console.ReadLine();
@@ -16,24 +17,31 @@ while (true)
 
             if (vendingNum == 0)
             {
-                Environment.Exit(0);
+                isRunning = false;
             }
 
             if (vendingPairs.ContainsKey(vendingNum))
             {
-                string chosen = vendingPairs[vendingNum];
-                Console.WriteLine("You have chosen " + chosen);
+                
+                Console.WriteLine("You have chosen " + vendingPairs[vendingNum]);
             }
             else
             {
                 Console.WriteLine("Invalid product");
+                continue;
             }
 
+        }
+        else
+        {
+            Console.WriteLine("invalid prod");
+            continue;
         }
     }
     else
     {
         Console.WriteLine("Invalid product");
+        continue;
     }
 
 }
